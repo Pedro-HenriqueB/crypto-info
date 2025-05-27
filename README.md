@@ -1,4 +1,4 @@
-# 💰 Crypto Info\*\*
+# 💰 Crypto Info
 
 A simple and modern React app that displays real-time information about a cryptocurrency, including its current value, percentage change, and a graph of recent price movements.
 
